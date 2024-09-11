@@ -1,6 +1,6 @@
-## Pet Reels (June 2022)
+## Pet Reels (My first full-stack project)
 
-Social Video Sharing Platforms for your Pets
+Social Media Video Sharing Platform for your Pets
 
 ### Features
  - Video Post Functionality
@@ -21,3 +21,7 @@ Social Video Sharing Platforms for your Pets
  - Custom Google Authentication
 
 ### Demo
+
+
+https://github.com/user-attachments/assets/4268cd3a-829a-4237-a656-0974ad7341fa
+
